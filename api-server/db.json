@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "My second stream.",
+      "description": "Have a good day!",
+      "id": 2
+    },
+    {
+      "title": "My third stream.",
+      "description": "Feels so gooooooooood!!",
+      "id": 3
+    },
+    {
+      "title": "My fourth stream",
+      "description": "An other stream",
+      "id": 4
+    },
+    {
+      "title": "Just an input",
+      "description": "Testing createStream",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "description": "Testing",
+      "id": 6
+    },
+    {
+      "title": "A human nature",
+      "description": "Kick one!",
+      "id": 7
+    }
+  ]
+}

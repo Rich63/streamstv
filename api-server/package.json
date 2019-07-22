@@ -1,0 +1,14 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "API server from JSON-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3333 -w db.json"
+  },
+  "author": "R. Orta",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
