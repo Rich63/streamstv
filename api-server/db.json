@@ -19,8 +19,8 @@
       "id": 3
     },
     {
-      "title": "My fourth stream",
-      "description": "An other stream",
+      "title": "My fourth stream ",
+      "description": "An other stream.",
       "userId": "108323373824008206651",
       "id": 4
     },
@@ -35,6 +35,12 @@
       "description": "You should not see this on the form page!!!",
       "userId": "108323373824008206651",
       "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me refactor some Components!",
+      "userId": "108323373824008206651",
+      "id": 7
     }
   ]
 }
