@@ -1,39 +1,40 @@
 {
   "streams": [
     {
-      "title": "My first stream",
+      "title": "Someone else's stream.",
       "description": "This is a great stream!",
+      "userId": "111113427830310115815",
       "id": 1
     },
     {
-      "title": "My second stream.",
+      "title": "My first stream.",
       "description": "Have a good day!",
+      "userId": "108323373824008206651",
       "id": 2
     },
     {
-      "title": "My third stream.",
+      "title": "Someone else's stream.",
       "description": "Feels so gooooooooood!!",
+      "userId": "111113427830310115815",
       "id": 3
     },
     {
       "title": "My fourth stream",
       "description": "An other stream",
+      "userId": "108323373824008206651",
       "id": 4
     },
     {
-      "title": "Just an input",
-      "description": "Testing createStream",
+      "title": "I did NOT created this stream",
+      "description": "This is NOT MY stream",
+      "userId": "111113427830310115815",
       "id": 5
     },
     {
-      "title": "Test",
-      "description": "Testing",
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "108323373824008206651",
       "id": 6
-    },
-    {
-      "title": "A human nature",
-      "description": "Kick one!",
-      "id": 7
     }
   ]
 }
