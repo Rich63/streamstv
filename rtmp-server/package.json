@@ -1,0 +1,14 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "description": "rtmp server see course section 22",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "R. Orta",
+  "license": "MIT",
+  "dependencies": {
+    "node-media-server": "^2.1.2"
+  }
+}
